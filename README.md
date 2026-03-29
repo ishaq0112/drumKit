@@ -17,6 +17,9 @@ Users can play different drum sounds using keyboard keys or by clicking on the b
 1. Clone the repository
 2. Open index.html in your browser
 
+## Preview
+
+
 ## Future Improvements
 - Add volume control
 - Add more sound kits
